@@ -152,7 +152,9 @@ summer-house-automation/
 ## 👥 Team
 
 Ahmad Abou Ilawi · Lama Al Sayed · Maya Shaib · **Shaza Hamzeh**
+
 **Advisor:** Mohamad Hamza
+
 Department of Mechatronics / Computer & Communications Engineering, AUST, Zahleh Campus
 
 ## 📚 References
